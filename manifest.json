@@ -4,7 +4,7 @@
   "name": "page editor",
   "version": "1.0",
 
-  "description": "Allows you  to edit the page of a website",
+  "description": "Allows you to edit the page of a website",
 
   "icons": {
     "48": "icons/page-48.png"
